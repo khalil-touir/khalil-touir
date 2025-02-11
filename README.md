@@ -37,10 +37,9 @@ J’adore explorer de nouvelles technologies et relever des défis en codant des
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/Angular-%23D40000.svg?style=for-the-badge&logo=Angular&logoColor=white)
-![Soring Boot](https://img.shields.io/badge/Spring-%234D4D4D.svg?style=for-the-badge&logo=Springs&logoColor=white)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![WampServer](https://img.shields.io/badge/WampServer-%23F7A93B.svg?style=for-the-badge&logo=WampServer&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
@@ -48,8 +47,6 @@ J’adore explorer de nouvelles technologies et relever des défis en codant des
 ![UML](https://img.shields.io/badge/UML-%23E0529E.svg?style=for-the-badge&logo=UML&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTTPS](https://img.shields.io/badge/HTTPS-%23B7178C.svg?style=for-the-badge&logo=HTTPS&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP-%23A81C7D.svg?style=for-the-badge&logo=HTTP&logoColor=white)
 
 
 
