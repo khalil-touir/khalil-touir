@@ -52,6 +52,10 @@ J’adore explorer de nouvelles technologies et relever des défis en codant des
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil-touir)](https://github.com/khalil-touir/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-touir&hide_progress=true)
+
+## 🏆 Trophées GitHub
+
+![](https://github-profile-trophy.vercel.app/?username=khalil-touir&theme=radical&no-frame=false&no-bg=true)
 <!--
 **khalil-touir/khalil-touir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
