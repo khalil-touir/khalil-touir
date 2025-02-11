@@ -19,6 +19,9 @@ N’hésitez pas à me poser des questions sur mon parcours, mes compétences ou
 
 ⚡ Anecdote :
 J’adore explorer de nouvelles technologies et relever des défis en codant des applications performantes et sécurisées. Mon objectif est de créer des solutions innovantes et impactantes.
+## 🌐 Réseaux sociaux :
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://https://github.com/khalil-touir)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil-touir)](https://github.com/khalil-touir/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-touir&hide_progress=true)
