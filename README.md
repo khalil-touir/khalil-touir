@@ -36,6 +36,8 @@ J’adore explorer de nouvelles technologies et relever des défis en codant des
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Antivirus-%23D40000.svg?style=for-the-badge&logo=Antivirus&logoColor=white)
+![Angular](https://img.shields.io/badge/DNS%20Filters-%234D4D4D.svg?style=for-the-badge&logo=DNS%20Filters&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![WampServer](https://img.shields.io/badge/WampServer-%23F7A93B.svg?style=for-the-badge&logo=WampServer&logoColor=white)
@@ -48,6 +50,8 @@ J’adore explorer de nouvelles technologies et relever des défis en codant des
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTTPS](https://img.shields.io/badge/HTTPS-%23B7178C.svg?style=for-the-badge&logo=HTTPS&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP-%23A81C7D.svg?style=for-the-badge&logo=HTTP&logoColor=white)
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil-touir)](https://github.com/khalil-touir/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-touir&hide_progress=true)
